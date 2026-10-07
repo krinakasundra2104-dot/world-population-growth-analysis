@@ -67,6 +67,7 @@ The Power BI dashboard includes:
 ## 06. Dashboard Preview
 
 World Population Growth Analysis dashboard showing historical and projected population trends from 1950 to 2100.
+![World Population Growth Analysis Dashboard](dashboard.png)
 
 ##  Project Creator
 
